@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Vaishnavi 👋  
+I'm a self-taught frontend developer currently learning how to build clean, responsive, and user-friendly web interfaces.
 
-<!--
-**ShineVaish14/ShineVaish14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on: basic web projects using HTML, CSS, and JavaScript  
+- 🌱 I’m learning: JavaScript fundamentals and responsive design  
+- 🧠 Exploring: React and component-based architecture  
+- ⚡ Fun fact: I love cooking and crafting tasty code too :)
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- HTML | CSS | JavaScript (vanilla)
+- Git & GitHub
+- Working towards: React, Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/vaishnaviparhad) 
+
+---
+
+Thanks for stopping by!
+
